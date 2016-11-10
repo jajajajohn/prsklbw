@@ -1,0 +1,17 @@
+{
+  "name": "prsklbw",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/jincod/dotnet-buildpack"
+    }
+  ]
+}
